@@ -27,8 +27,8 @@
 
 Clone the repository and enter the source code directory.
 ```bash
-git clone https://github.com/raydium-io/raydium-amm
-cd raydium-amm/program
+git clone https://github.com/internet-condom-io/internet-condom-amm
+cd internet-condom-amm/program
 ```
 
 ### Mainnet Build
@@ -70,8 +70,8 @@ devnet = [
 ]
 
 [dependencies]
-amm-cli = { git = "https://github.com/raydium-io/raydium-library" }
-common = { git = "https://github.com/raydium-io/raydium-library" }
+amm-cli = { git = "https://github.com/internet-condom-io/internet-condom-library" }
+common = { git = "https://github.com/internet-condom-io/internet-condom-library" }
 spl-token = { version = "4.0.0", features = ["no-entrypoint"] }
 spl-associated-token-account = { version = "2.2.0", features = [
     "no-entrypoint",
