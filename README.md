@@ -1,4 +1,4 @@
-# internet-condom
+# Internet-Condom CLI AMM Program
 <div align="center">
   <h1>Internet Condom $CONDOM</h1>
 </div>
