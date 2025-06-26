@@ -14,7 +14,7 @@
 
 # $CONDOM The official algorithmic Internet Condom CLI
 
-![Description of image](https://github.com/blankomeister/RAYGORBANA/blob/bf40399e826ff28bc50bd8d27152bd356176c8ea/program/src/jowigrajoigrojirgwijjgirwao.png?raw=true)
+![Description of image](https://github.com/blankomeister/internet-condom/blob/main/internetcondom.png?raw=true)
 - **The Internet Condom AMM is an on-chain smart contract based on the “constant product” in a permissionless and decentralized manner built on the Solana blockchain.And it also shares its liquidity according to the Fibonacci sequence in the form of limit orders on [OpenBook](https://github.com/openbook-dex/program), the primary central limit order book (CLOB) of Solana**
 - **The audit process is [here](https://github.com/internet-condom/docs/tree/master/audit)**
 - **The dev document is [here](https://github.com/internet-condom/tree/master/dev-resources)**
